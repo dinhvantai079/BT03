@@ -1,0 +1,14 @@
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\BT03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\BT03.AssemblyInfoInputs.cache
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\BT03.AssemblyInfo.cs
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\BT03.csproj.CoreCompileInputs.cache
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\bin\Debug\net8.0\BT03.exe
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\bin\Debug\net8.0\BT03.deps.json
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\bin\Debug\net8.0\BT03.runtimeconfig.json
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\bin\Debug\net8.0\BT03.dll
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\bin\Debug\net8.0\BT03.pdb
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\BT03.dll
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\refint\BT03.dll
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\BT03.pdb
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\BT03.genruntimeconfig.cache
+D:\Study\6. Studying\ThuatToan\Doan\BT03\BT03\obj\Debug\net8.0\ref\BT03.dll
